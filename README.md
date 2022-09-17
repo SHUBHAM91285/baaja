@@ -4,7 +4,7 @@
 This project is based on azure static web app and developed using html, CSS, JavaScript.
 # This is the first page
 here, we have download buttons for play store and app store which glows when we put cursor on it.
-![](images/page1Musicana.jpg)
+![](images/page1.jpeg)
 
 # CHATBOT
 chatbot is created using Azure Cognitive services which can answer general FAQ like how to play piano?
