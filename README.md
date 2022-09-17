@@ -6,9 +6,6 @@ This project is based on azure static web app and developed using html, CSS, Jav
 here, we have download buttons for play store and app store which glows when we put cursor on it.
 ![](images/page1.jpeg)
 
-# CHATBOT
-chatbot is created using Azure Cognitive services which can answer general FAQ like how to play piano?
-![](images/chatbot.jpg)
 
 # This is second page
 here, we have some basic feature of the website
@@ -24,10 +21,9 @@ by clicking on the hyper link, we can go to different musical instrunment and ca
 ![](images/page4musicana.jpg)
 
 # Drum
-![](images/drum.jpg)
+![](images/drum.jpeg)
 
-# Piano
-![](images/piano.jpg)
+
 
 # End page and social Links
 ![](images/page5musicana.jpg)
