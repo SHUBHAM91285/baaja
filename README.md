@@ -16,7 +16,7 @@ here, we have some basic feature of the website
 
 # This is third page 
 here, we have some review from the customers who have used this website.
-![](images/page3musicana.jpg)
+![](images/Page3musicana.jpeg)
 
 # This is fourth page
 here, we have different types of musical instrunments and their price. As of now, i haven't added any payment gatway so
