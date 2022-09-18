@@ -1,5 +1,5 @@
 ## musicana azure link here: 
-# https://white-plant-053319010.1.azurestaticapps.net/
+# https://nice-glacier-04c73e310.1.azurestaticapps.net/
 
 This project is based on azure static web app and developed using html, CSS, JavaScript.
 # This is the first page
